@@ -14,4 +14,4 @@ function Reverse(word){
 }
 
 
-console.log(Reverse('capitano'))
+console.log(Reverse(parola))
